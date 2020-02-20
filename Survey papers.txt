@@ -1,0 +1,38 @@
+Literature Survey
+
+Aadhaar
+[1] official website :https://uidai.gov.in/
+[2]https://economictimes.indiatimes.com/6-documents-that-must-be-linked-with-your-aadhar-card/tomorrowmakersshow/70240225.cms
+[3]https://economictimes.indiatimes.com/news/economy/policy/11-questions-on-aadhaar-and-its-misuse-answered-by-the-uidai/articleshow/62538926.cms
+[4]https://www.firstpost.com/tech/news-analysis/aadhaar-security-breaches-here-are-the-major-untoward-incidents-that-have-happened-with-aadhaar-and-what-was-actually-affected-4300349.html
+[5]https://en.wikipedia.org/wiki/Aadhaar
+[6] https://economictimes.indiatimes.com/news/politics-and-nation/there-is-a-need-to-secure-full-aadhaar-ecosystem-experts/articleshow/63459367.cms?from=mdr#targetText=While%20the%20Unique%20Identification%20Authority,measures%20to%20keep%20data%20safe.
+[7] A Review on Different Image Steganography Techniques (base paper)	
+[8] An analysis of LSB Based Image Steganography Techniques
+
+
+1 Wikipedia: https://en.wikipedia.org/wiki/Aadhaar
+2 Privacy and Security of Aadhaar:A Computer Science Perspective (journal)
+3 https://economictimes.indiatimes.com/news/economy/policy/11-questions-on-aadhaar-and-its-misuse-answered-by-the-uidai/articleshow/62538926.cms?from=mdr (Data stored in aadhaar database)
+4)https://www.thehindubusinessline.com/news/1-bn-records-compromised-in-aadhaar-breach-since-january-gemalto/article25224758.ece (Aadhaar data leak)
+
+Steganography
+1 Base paper:A review on different image Steganography Techniques IJEIT
+2 LSB:An analysis of LSB Based Image Steganography Techniques
+3 DCT:STEGANALYSIS OF BLOCK-DCT IMAGE STEGANOGRAPHY 
+4 DWT and QR decomposition:Image steganography using redundant discrete wavelet transform and QR factorization
+5 DFrFT image steganography: Image Steganography using Discrete Fractional Fourier Transform
+6 https://www.thehindubusinessline.com/news/1-bn-records-compromised-in-aadhaar-breach-since-january-gemalto/article25224758.ece
+7 DCT image compression: Analysis Of Image Compression Algorithm Using DCT
+8 An analysis of LSB Based Image Steganography Techniques
+9 A steganographic method for images by pixel-value differencing
+10 Data Hiding Using EDGE Based Steganography
+11 Study and analysis of quality of service in different image based steganography using Pixel Mapping Method (PMM)
+12 EFFICIENT METHOD FOR HIDING DATA BY PIXEL INTENSITY
+13 STEGANOGRAPHIC APPROACH FOR HIDING IMAGE IN DCT DOMAIN
+14 A DWT Based Approach for Image Steganography
+15 An Integer Wavelet Transform Based Steganography Technique for Color Images
+
+
+
+
